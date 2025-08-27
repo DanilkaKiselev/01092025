@@ -15,6 +15,11 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -29,7 +34,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
-  <compatibilityMode>8.3.25</compatibilityMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
   <languages uuid="ee9ed183-eaa7-4e4e-a6fe-ab1c17d51d8e">
     <name>Русский</name>
     <synonym>
