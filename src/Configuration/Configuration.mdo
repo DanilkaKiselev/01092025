@@ -29,7 +29,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
-  <compatibilityMode>8.3.27</compatibilityMode>
+  <compatibilityMode>8.3.25</compatibilityMode>
   <languages uuid="ee9ed183-eaa7-4e4e-a6fe-ab1c17d51d8e">
     <name>Русский</name>
     <synonym>
@@ -38,6 +38,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <roles>Role.ПолныеПрава</roles>
+  <roles>Role.ТолькоПросмотр</roles>
   <commonCommands>CommonCommand.НайтиТоварПоНазванию</commonCommands>
   <catalogs>Catalog.Товары</catalogs>
 </mdclass:Configuration>
